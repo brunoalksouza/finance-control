@@ -1,0 +1,13 @@
+.container {
+  height: 150px;
+  text-align: center;
+  background: rgb(0, 77, 128);
+}
+
+.header {
+}
+
+.title {
+  padding-top: 20px;
+  /* color: fff; */
+}
